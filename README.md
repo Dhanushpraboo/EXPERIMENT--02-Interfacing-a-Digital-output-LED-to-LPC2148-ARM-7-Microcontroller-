@@ -139,7 +139,7 @@ int main()
 }
 ~~~
 ## Output screen shots :
- ![out](1.jpg)
+ ![out](1.jpeg)
 ## Result :
 Interfacing a digital output with ARM microcontroller is executed 
 
